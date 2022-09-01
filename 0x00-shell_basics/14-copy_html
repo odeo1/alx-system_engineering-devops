@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cp -rnu *.html
+=======
+cp -rnu *html
+>>>>>>> 6fda2e5ca63ff855ebf8d838c86686c8a35db7b6
