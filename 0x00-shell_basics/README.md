@@ -1,1 +1,1 @@
-Long format,  user and group Id, hidden files
+Create directory under another directory
