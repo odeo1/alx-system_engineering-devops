@@ -1,1 +1,1 @@
-Create directory under another directory
+Move file betty from tmp to tmp/directory
